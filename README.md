@@ -2,4 +2,4 @@
 
 App consuming an external api to show Crypto Prices in Real Time
 
-Using styled components.
+Using styled components and custom hooks
